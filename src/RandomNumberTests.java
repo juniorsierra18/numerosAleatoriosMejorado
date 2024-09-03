@@ -237,7 +237,7 @@ public class RandomNumberTests {
                 default:
                     break;
             }
-            System.out.println("===============================================================");
+            System.out.println("==============================================================");
         }
 
     }
