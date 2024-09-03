@@ -146,8 +146,6 @@ public class App {
         int a = scanner.nextInt();
         System.out.print("Ingrese El Modulo (m): ");
         int m = scanner.nextInt();
-        System.out.print("Ingrese La Cantidad De Numeros Que Quiere Generar: ");
-        int amount = scanner.nextInt();
 
         System.out.println("===============================================================");
 
